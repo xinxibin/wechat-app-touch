@@ -1,0 +1,12 @@
+/* pages/event/event.wxss */
+
+page {
+  width: 100%;
+  height: 100%;
+}
+
+.duration-touch-view {
+  width: 100%;
+  height: 80%;
+  background-color: red;
+}

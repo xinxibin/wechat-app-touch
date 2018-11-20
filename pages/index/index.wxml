@@ -1,0 +1,5 @@
+<view class="duration-touch-view" 
+bindtouchstart="touchStart" 
+bindtouchmove="touchMove" 
+bindtouchend="touchEnd" >
+</view>
